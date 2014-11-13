@@ -13,7 +13,6 @@
     "cvs"
   ],
   "author": "Timm Haucke <timm.haucke@intradesys.com>",
-  "license": "MIT",
   "dependencies": {
     "csv-stringify": "0.0.3",
     "express": "^4.10.2",
