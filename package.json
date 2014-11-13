@@ -1,0 +1,23 @@
+{
+  "name": "webmaker-app-cvsexport",
+  "version": "0.0.1",
+  "description": "This service provides a cvs export functionality for data from webmaker-apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "mozilla",
+    "webmaker",
+    "app",
+    "cvs"
+  ],
+  "author": "Timm Haucke <timm.haucke@intradesys.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-stringify": "0.0.3",
+    "express": "^4.10.2",
+    "firebase": "^2.0.2",
+    "underscore": "^1.7.0"
+  }
+}
