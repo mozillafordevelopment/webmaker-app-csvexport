@@ -1,7 +1,7 @@
 {
-  "name": "webmaker-app-cvsexport",
+  "name": "webmaker-app-csvexport",
   "version": "0.0.1",
-  "description": "This service provides a cvs export functionality for data from webmaker-apps",
+  "description": "This service provides a csv export functionality for data from webmaker-apps",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
