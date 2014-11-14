@@ -77,6 +77,7 @@ module.exports = function(app)
 
         if (proceed)
         {
+            data = new Data(appId);
             data.getAllDataSets(function(dataSets, err)
             {
                 sendMethod(err || null, dataSets || null);
